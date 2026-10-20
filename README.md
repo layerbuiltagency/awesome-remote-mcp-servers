@@ -2800,6 +2800,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Edworking MCP](https://mcp.edworking.com) `https://mcp.edworking.com/mcp`
   [![Edworking MCP connector](https://glama.ai/mcp/connectors/io.github.Edworking/edworking-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Edworking/edworking-mcp)
   🔐 - Read and manage Edworking projects, tasks, conversations and files with scoped access.
+- [Flowmaps](https://flowmaps.app) `https://flowmaps.app/api/mcp`
+  [![Flowmaps MCP connector](https://glama.ai/mcp/connectors/app.flowmaps/flowmaps/badges/score.svg)](https://glama.ai/mcp/connectors/app.flowmaps/flowmaps)
+  🔐 - Plan apps in build order: list ventures and Ready features, add ideas, and read step-by-step build plans.
 - [FrameOn](https://app.frameonlab.com/mcp) `https://api.frameonlab.com/api/v1/mcp`
   [![FrameOn MCP connector](https://glama.ai/mcp/connectors/com.frameonlab/frameon/badges/score.svg)](https://glama.ai/mcp/connectors/com.frameonlab/frameon)
   🔐 - Project management for AI agents: tasks, docs, decisions and time in one shared team context.
